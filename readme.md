@@ -1,0 +1,5 @@
+The Israel and Palestine conflict escalated into a full-blown war. This war, as expected, also spilled into the cyber space.
+
+Some of our clients showed their support for the Palestine side by having websites, including online newspaper and a few other publications. However, Israel has the most powerful cyber army globally, and they were determined to disrupt any online presence that favored Palestine.
+
+We, on the other hand, were tasked with safeguarding and protecting our clients' online assets. We faced security threats and attacks on their websites, including some that used the WordPress platform. We discovered unauthorized users with administrative privileges and promptly removed them. To strengthen security, we needed to reset the passwords for all admin users, a task easily accomplished with a simple script.
